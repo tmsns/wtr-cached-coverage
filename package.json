@@ -1,0 +1,7 @@
+{
+  "name": "wtr-cached-coverage",
+  "version": "0.0.0",
+  "dependencies": {
+    "@web/test-runner": "0.16.1"
+  }
+}
